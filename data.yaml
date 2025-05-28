@@ -1,0 +1,15 @@
+train: D:\licenta\antrenari\A_5_a\train\images
+val: D:\licenta\antrenari\A_5_a\validation\images
+test: D:\licenta\antrenari\A_5_a\test\images
+
+# Number of classes
+nc: 7  # Numărul total de clase (3 clase noi + 80 din COCO)
+
+names:
+  0: ""
+  1: ""
+  2: zebra
+  3: animals
+  4: green_light
+  5: red_light
+  6: fire_hydrant
